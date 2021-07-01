@@ -13,4 +13,4 @@ var str5 = String(156)
 var str6 = String(3.1416)
 
 
-console.log(str, str2, str3, str4, str5, str6)
+console.log(str, str2, str3, str4, str5, str6) 
