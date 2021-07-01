@@ -1,5 +1,8 @@
 // ***********String**********
 
+// Anything Wrapped Between Quotes is Called String
+
+
 var str = 'String'
 var str2 = "String"
 var str3 = `String`

@@ -1,3 +1,4 @@
+// Variable is a Container which cna Store Date
 console.log('Hello World')
 console.log('I love Bangladesh')
 console.log(45)
