@@ -1,5 +1,13 @@
  
 
+
+/**
+ * 
+ * https://www.w3schools.com/js/js_math.asp     ----> the best
+ * 
+ */
+
+
 //  Function are core building blocks of any programming language. We will discuss about functions in details in future chapters. 
 
 console.log(Math.E) // vules hide thake oi tha ke  bole ***constant
