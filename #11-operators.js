@@ -99,7 +99,7 @@ var d = 50
 
 console.log(c == d)
 console.log(c === b)
-console.log(c !== b)
+console.log(c !== d)
 
 
 
