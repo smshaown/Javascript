@@ -2,7 +2,7 @@ var date = new Date()
 
 var today = date.getDay()
 
-switch (6){
+switch (today){
     case 0:
         console.log('Today is Sunday')
         break
