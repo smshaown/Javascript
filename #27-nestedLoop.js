@@ -21,6 +21,16 @@
 
 // ******
 // ******
+
+var n = 10 
+for(var i =1; i<=n; i++){
+    result = ''
+    for(var j=0; j<=i; j++){
+        result += '* '
+    }
+    console.log(result)
+}
+
 // ******
 // ******
 
