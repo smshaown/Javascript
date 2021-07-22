@@ -13,7 +13,7 @@
 console.log(Math.E) // vules hide thake oi tha ke  bole ***constant
 console.log(Math.PI)
 
-var n = 4.589
+var n = 4.000
 
  console.log(Math.abs(n))// Use Negative Number to Get Absolute Value
  console.log(Math.floor(n))
