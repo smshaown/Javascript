@@ -13,3 +13,13 @@ console.log(str3)
 
 var str4 = 'This is a \\String'
 console.log(str4)
+
+
+/*
+আর কিছু escape Notation আছে
+#যেমন: 
+Carriage Return	    \r
+Vertical Tab		\v
+Backspace		    \b
+Form Feed 		    \f
+*/
