@@ -43,3 +43,11 @@
 //                 .trim()
 // console.log('       smshawoen       '.trim())
 // // ans:shmshaown
+
+//         // /split('')
+// var a = 'I am'
+// var b = 's m shaown'
+// var c = a.concat(' ', b)
+// console.log(c.split(' '))
+// ans:[ 'I', 'am', 's', 'm', 'shaown' ]
+
