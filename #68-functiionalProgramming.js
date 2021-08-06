@@ -14,7 +14,5 @@
 
 
 ********* Function Acts Like a value ************
-
-
   */
 
