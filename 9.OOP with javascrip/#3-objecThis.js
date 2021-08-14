@@ -5,6 +5,7 @@ var rect = {
     draw: function() {
         console.log('I am ra rectangle')
         this.printProperties();
+        console.log(this)
     },
     printProperties: function() {
         console.log('My width is ' + this.width)
