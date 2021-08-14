@@ -38,4 +38,4 @@ rect1.draw()
 
 
 var rect2 = createReact(40, 30)
-rect2.draw()
+rect2.draw()    
