@@ -14,6 +14,8 @@ var rect = {
 }
 
 
+
+
 function myFunc() {
     console.this(this)
 }
